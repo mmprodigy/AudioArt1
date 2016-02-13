@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Monica/Documents/CS106/treehacks/beads/library/beads.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Monica/Documents/CS106/treehacks/beads/library/beads-io.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Monica/Documents/CS106/treehacks/beads/library/jarjar-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Monica/Documents/CS106/treehacks/beads/library/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Monica/Documents/CS106/treehacks/beads/library/jna.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Monica/Documents/CS106/treehacks/beads/library/mp3spi1.9.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Monica/Documents/CS106/treehacks/beads/library/org-jaudiolibs-audioservers.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Monica/Documents/CS106/treehacks/beads/library/org-jaudiolibs-audioservers-jack.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Monica/Documents/CS106/treehacks/beads/library/org-jaudiolibs-audioservers-javasound.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Monica/Documents/CS106/treehacks/beads/library/org-jaudiolibs-jnajack.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Monica/Documents/CS106/treehacks/beads/library/tools.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Monica/Documents/CS106/treehacks/beads/library/tritonus_aos-0.3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Monica/Documents/CS106/treehacks/beads/library/tritonus_share.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Monica/Documents/CS106/treehacks/TarsosDSP-latest-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
